@@ -1,0 +1,15 @@
+# Local credentials and private configuration
+auth.json
+*.token
+*.secret
+.env
+.env.*
+
+# Local tooling and temporary files
+tmp/
+dist/
+artifacts/
+*.log
+Thumbs.db
+Desktop.ini
+
